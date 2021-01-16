@@ -154,6 +154,10 @@ p {
 	.container-fluid{
 		padding: 3% 3% 0;
 	}
+	.nav-link{
+		font-size: 4rem;
+		font-family: "Montserrat";
+	}
 }
 
 /*Footer Section*/
