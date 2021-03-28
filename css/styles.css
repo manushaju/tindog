@@ -143,22 +143,6 @@ p {
 	padding: 100px;
 }
 
-@media (max-width: 1028px){
-	h1{
-		text-align: center;
-	}
-	.title-image{
-		position: static;
-		transform: rotate(0);
-	}
-	.container-fluid{
-		padding: 3% 3% 0;
-	}
-	.nav-link{
-		font-size: 4rem;
-		font-family: "Montserrat";
-	}
-}
 
 /*Footer Section*/
 
